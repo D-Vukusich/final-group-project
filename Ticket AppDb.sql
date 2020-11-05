@@ -3,7 +3,7 @@ CREATE database ticketapp_db;
 use ticketapp_db;
 
 CREATE TABLE events (
-date DATE NOT NULL,
+date VARCHAR (12) NOT NULL,
 venue VARCHAR (30) NOT NULL,
 artistORteam VARCHAR (30) NOT NULL,
 primary key (venue)
