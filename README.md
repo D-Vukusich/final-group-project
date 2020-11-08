@@ -10,8 +10,6 @@ Attached is a ticket application that uses a Mysql database to store ticket data
 
 Instructions:
 
-The purpose of this application is to manage ticket, event, and owner data within a database; and allows you to view, append, and remove this data. To navigate through the menu you enter in the number that corresponds to the action.
-
 Obtain a Ticket:
 Selecting this option will allow you to create a new ticket. You will be prompted to enter in the event date, the venue the event is taking place in, the seat number, and the barcode.
 
